@@ -3,15 +3,15 @@
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
-Time spent: **x** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-- [ ] User can compose a tweet. (4pts)
-- [ ] User can favorite a tweet. (4pts)
-- [ ] User can retweet a tweet. (2pts)
+- [x ] User can compose a tweet. (4pts)
+- [x] User can favorite a tweet. (4pts)
+- [x] User can retweet a tweet. (2pts)
 
 The following **bonus** features are implemented:
 
@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # Project 3 - *Twitter IOS App*
 
